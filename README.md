@@ -16,4 +16,7 @@ pip install --upgrade pip
 
 pip install metapy pytoml
 ```
+3. Download and install easygui
+http://easygui.sourceforge.net
+
 
