@@ -19,4 +19,11 @@ pip install metapy pytoml
 3. Download and install easygui
 http://easygui.sourceforge.net
 
+# Run the source code
+The source code was created using Jupyter Notebook with easygui interface.
+  - Run the source code.
+  - You will be prompted to enter patient ID (MRN).
+  - Enter MRN from the patient_list.csv file.
+  - Click OK and you should see a summary of the patient visits in the last year.
+
 
